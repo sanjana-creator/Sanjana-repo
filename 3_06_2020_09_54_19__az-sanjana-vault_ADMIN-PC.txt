@@ -1,0 +1,3 @@
+Passphrase : sanjanapatil1234
+Vault      : az-sanjana-vault
+Machine    : ADMIN-PC
