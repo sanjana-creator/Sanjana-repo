@@ -3,3 +3,7 @@ thanks
 Stay Safe.
 stay at home
 2 + 3 = 5
+sudo service service-name status
+sudo service start
+cd KnowledgeCache
+
